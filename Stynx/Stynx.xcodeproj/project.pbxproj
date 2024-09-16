@@ -11,6 +11,7 @@
 		2203E8102C95ADC400F5ECA8 /* Loader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2203E80F2C95ADC400F5ECA8 /* Loader.swift */; };
 		2203E8152C95CB3500F5ECA8 /* HTMLParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2203E8142C95CB3500F5ECA8 /* HTMLParser.swift */; };
 		2203E8172C95D1D500F5ECA8 /* CharStream.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2203E8162C95D1D500F5ECA8 /* CharStream.swift */; };
+		2203E8192C9742DF00F5ECA8 /* HTMLTokenizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2203E8182C9742DF00F5ECA8 /* HTMLTokenizer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -33,6 +34,7 @@
 		2203E8132C95B00F00F5ECA8 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		2203E8142C95CB3500F5ECA8 /* HTMLParser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HTMLParser.swift; sourceTree = "<group>"; };
 		2203E8162C95D1D500F5ECA8 /* CharStream.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharStream.swift; sourceTree = "<group>"; };
+		2203E8182C9742DF00F5ECA8 /* HTMLTokenizer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HTMLTokenizer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +73,7 @@
 				2203E8042C959F0C00F5ECA8 /* main.swift */,
 				2203E8142C95CB3500F5ECA8 /* HTMLParser.swift */,
 				2203E8162C95D1D500F5ECA8 /* CharStream.swift */,
+				2203E8182C9742DF00F5ECA8 /* HTMLTokenizer.swift */,
 			);
 			path = Stynx;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 				2203E8172C95D1D500F5ECA8 /* CharStream.swift in Sources */,
 				2203E8102C95ADC400F5ECA8 /* Loader.swift in Sources */,
 				2203E8052C959F0C00F5ECA8 /* main.swift in Sources */,
+				2203E8192C9742DF00F5ECA8 /* HTMLTokenizer.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
